@@ -1,5 +1,5 @@
 
-# Local Knowledge Agentic RAG with LLM
+# Local Knowledge LLM & Agentic RAG
 
 This repository demonstrates an Agentic Retrieval-Augmented Generation (RAG) system using a local Language Model (LLM). The system leverages LangChain, a powerful tool for building LLM applications, along with various other libraries to load, process, and retrieve information from PDFs.
 

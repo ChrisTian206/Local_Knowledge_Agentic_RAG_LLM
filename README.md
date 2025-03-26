@@ -183,5 +183,3 @@ print("*****************************", v["answer"])
 ## Running the System
 
 To run the system, execute the cells in the `local_agentic_rag.ipynb` notebook sequentially. Make sure your local LLM is running and your PDFs are in the `data` folder.
-
-```

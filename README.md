@@ -184,9 +184,4 @@ print("*****************************", v["answer"])
 
 To run the system, execute the cells in the `local_agentic_rag.ipynb` notebook sequentially. Make sure your local LLM is running and your PDFs are in the `data` folder.
 
-## Conclusion
-
-This repository provides a comprehensive setup for an Agentic RAG system using a local LLM. It demonstrates the integration of LangChain, Chroma, and LangGraph to build a powerful document retrieval and question-answering system. Feel free to customize the workflow and experiment with different LLMs and document sources.
 ```
-
-Feel free to modify any part of the README to better suit your needs.
